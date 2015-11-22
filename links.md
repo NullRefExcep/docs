@@ -1,0 +1,63 @@
+## PHP:
+  - [.ENV](https://github.com/vlucas/phpdotenv)
+  - [Faker](https://github.com/fzaninotto/Faker)
+  - [Stringy](https://github.com/danielstjules/Stringy)
+  - [psysh](https://github.com/bobthecow/psysh)
+  
+## Yii2:
+  - [SoftDelete](https://github.com/yii2tech/ar-softdelete)
+  - [FancyBox](https://github.com/newerton/yii2-fancybox)
+  - [ManyToManyBehavior](https://github.com/voskobovich/ManyToManyBehavior)
+  - [ElFinder](https://github.com/MihailDev/yii2-elfinder)
+  - [CKEditor](https://github.com/MihailDev/yii2-ckeditor)
+  - [ACE(editor)](https://github.com/trntv/yii2-aceeditor)
+  - [Fancytree](https://github.com/wbraganca/yii2-fancytree-widget)
+  - [Shopping cart](https://github.com/omnilight/yii2-shopping-cart)
+  - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
+  - [Widgets](https://github.com/kartik-v/yii2-widgets)
+  - [Settings](https://github.com/phemellc/yii2-settings)
+  - [Auth](https://github.com/Nodge/yii2-eauth)
+  - [Thumbler](https://github.com/Alex-Bond/yii2-thumbler)
+  - [Multiple input](https://github.com/unclead/yii2-multiple-input)
+  - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
+  - [Users module](https://github.com/dektrium/yii2-user)
+  
+## Front-end:
+  - [Owl Carousel](http://owlcarousel.owlgraphic.com/)
+  - [rcarousel](https://github.com/ryrych/rcarousel)
+  - [SuperSliedes](https://github.com/nicinabox/superslides)
+  - [Swiper](https://github.com/nolimits4web/swiper)
+  - [Wheelnav](https://github.com/softwaretailoring/wheelnav)
+  - [liMarquee (Running tape)](https://github.com/omcg33/jquery.limarquee)
+  - [ImgAreaSelect (Crop)](https://github.com/odyniec/imgareaselect)
+  - [Mapster (img area)](https://github.com/jamietre/imagemapster)
+  - [vis.js (Visualization)](https://github.com/almende/vis)
+  - [spin.js](https://github.com/fgnass/spin.js)
+  - [jsrender](https://github.com/borismoore/jsrender)
+  - [Justified Gallery](https://github.com/miromannino/Justified-Gallery)
+  - Bootstrap
+    - Themes
+      - [SB Admin](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2)
+      - [Devoops](https://github.com/devoopsme/devoops)
+    - Plugins:
+      - [Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)
+      - [Toggle](https://github.com/minhur/bootstrap-toggle)
+  - Spinners
+    - [SpinKit](https://github.com/tobiasahlin/SpinKit)
+  - Forms
+    - [JavaScript Custom Forms](https://github.com/w3co/jcf)
+    - [JSTree](https://github.com/vakata/jstree)
+    - [ion.checkRadio](https://github.com/IonDen/ion.checkRadio/)
+    - [awesomplete](https://github.com/LeaVerou/awesomplete)
+  - Scrollbars
+    - [Nice Scroll](https://github.com/inuyaksa/jquery.nicescroll)
+    - [Custom Scroll](https://github.com/malihu/malihu-custom-scrollbar-plugin)
+  - Canvas & SVG
+    - [FabricJS](https://github.com/kangax/fabric.js)
+  - Animations
+    - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+    - [GSAP](https://github.com/greensock/GreenSock-JS)
+    - [skrollr](https://github.com/Prinzhorn/skrollr)
+  - Icons
+    - [Pictonic](https://pictonic.co/)
+    - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
