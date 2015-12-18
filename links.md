@@ -21,6 +21,7 @@
   - [Multiple input](https://github.com/unclead/yii2-multiple-input)
   - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
   - [Users module](https://github.com/dektrium/yii2-user)
+  - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
   
 ## Front-end:
   - [Owl Carousel](http://owlcarousel.owlgraphic.com/)
