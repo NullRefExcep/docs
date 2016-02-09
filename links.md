@@ -24,10 +24,12 @@
   - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
   
 ## Front-end:
-  - [Owl Carousel](http://owlcarousel.owlgraphic.com/)
-  - [rcarousel](https://github.com/ryrych/rcarousel)
-  - [SuperSliedes](https://github.com/nicinabox/superslides)
-  - [Swiper](https://github.com/nolimits4web/swiper)
+  - Sliders & Carousels:
+    - [Owl Carousel](http://owlcarousel.owlgraphic.com/)
+    - [rcarousel](https://github.com/ryrych/rcarousel)
+    - [SuperSliedes](https://github.com/nicinabox/superslides)
+    - [Swiper](https://github.com/nolimits4web/swiper)
+    - [Slick](https://github.com/kenwheeler/slick)
   - [Wheelnav](https://github.com/softwaretailoring/wheelnav)
   - [liMarquee (Running tape)](https://github.com/omcg33/jquery.limarquee)
   - [ImgAreaSelect (Crop)](https://github.com/odyniec/imgareaselect)
