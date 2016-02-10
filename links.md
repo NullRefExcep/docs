@@ -30,6 +30,7 @@
     - [SuperSliedes](https://github.com/nicinabox/superslides)
     - [Swiper](https://github.com/nolimits4web/swiper)
     - [Slick](https://github.com/kenwheeler/slick)
+    - [turn.js](https://github.com/blasten/turn.js)
   - [Wheelnav](https://github.com/softwaretailoring/wheelnav)
   - [liMarquee (Running tape)](https://github.com/omcg33/jquery.limarquee)
   - [ImgAreaSelect (Crop)](https://github.com/odyniec/imgareaselect)
