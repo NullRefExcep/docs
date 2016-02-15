@@ -20,8 +20,9 @@
   - [Thumbler](https://github.com/Alex-Bond/yii2-thumbler)
   - [Multiple input](https://github.com/unclead/yii2-multiple-input)
   - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
-  - [Users module](https://github.com/dektrium/yii2-user)
+  - [Users](https://github.com/dektrium/yii2-user)
   - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
+  - [Comments](https://github.com/yeesoft/yii2-comments)
   
 ## Front-end:
   - Sliders & Carousels:
