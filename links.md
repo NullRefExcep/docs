@@ -66,3 +66,6 @@
   - Icons
     - [Pictonic](https://pictonic.co/)
     - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+  - React & friends
+    - [Redux](https://github.com/reactjs/redux) 
+    - [react-cropper (Image crop)](https://github.com/roadmanfong/react-cropper)
