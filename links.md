@@ -69,3 +69,10 @@
   - React & friends
     - [Redux](https://github.com/reactjs/redux) 
     - [react-cropper (Image crop)](https://github.com/roadmanfong/react-cropper)
+
+## Wordpress
+  - Tools
+    - [wp-cli](https://github.com/wp-cli/wp-cli)
+  - Plugins
+    - [Woocommerce](https://github.com/woothemes/woocommerce)
+    - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
