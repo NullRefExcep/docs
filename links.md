@@ -73,6 +73,7 @@
 ## Wordpress
   - Tools
     - [wp-cli](https://github.com/wp-cli/wp-cli)
+      - [tools](https://github.com/wp-cli/wp-cli.github.com/blob/master/docs/tools/index.md) 
   - Plugins
     - [Woocommerce](https://github.com/woothemes/woocommerce)
     - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
