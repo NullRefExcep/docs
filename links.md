@@ -77,3 +77,4 @@
   - Plugins
     - [Woocommerce](https://github.com/woothemes/woocommerce)
     - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
+    - [Attachments](https://github.com/jchristopher/attachments/)
