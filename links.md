@@ -5,24 +5,30 @@
   - [psysh](https://github.com/bobthecow/psysh)
   
 ## Yii2:
-  - [SoftDelete](https://github.com/yii2tech/ar-softdelete)
-  - [FancyBox](https://github.com/newerton/yii2-fancybox)
-  - [ManyToManyBehavior](https://github.com/voskobovich/ManyToManyBehavior)
-  - [ElFinder](https://github.com/MihailDev/yii2-elfinder)
-  - [CKEditor](https://github.com/MihailDev/yii2-ckeditor)
-  - [ACE(editor)](https://github.com/trntv/yii2-aceeditor)
-  - [Fancytree](https://github.com/wbraganca/yii2-fancytree-widget)
-  - [Shopping cart](https://github.com/omnilight/yii2-shopping-cart)
+  - Modules
+    - [Users](https://github.com/dektrium/yii2-user)
+    - [Settings](https://github.com/phemellc/yii2-settings)
+    - [Comments](https://github.com/yeesoft/yii2-comments)
+  - Components
+    - [Shopping cart](https://github.com/omnilight/yii2-shopping-cart)
+    - [Auth](https://github.com/Nodge/yii2-eauth)
+    - [Thumbler](https://github.com/Alex-Bond/yii2-thumbler)
+  - Behaviors
+    - [SoftDelete](https://github.com/yii2tech/ar-softdelete)
+    - [ManyToManyBehavior](https://github.com/voskobovich/ManyToManyBehavior)
+    - [ActiveRecord History](https://github.com/bupy7/yii2-activerecord-history)
+  - Widgets
+    - [Widgets](https://github.com/kartik-v/yii2-widgets)
+    - [ElFinder](https://github.com/MihailDev/yii2-elfinder)
+    - [CKEditor](https://github.com/MihailDev/yii2-ckeditor)
+    - [ACE(editor)](https://github.com/trntv/yii2-aceeditor)
+    - [Fancytree](https://github.com/wbraganca/yii2-fancytree-widget)
+    - [Multiple input](https://github.com/unclead/yii2-multiple-input)
+    - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
+    - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
+    - [FancyBox](https://github.com/newerton/yii2-fancybox)
   - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
-  - [Widgets](https://github.com/kartik-v/yii2-widgets)
-  - [Settings](https://github.com/phemellc/yii2-settings)
-  - [Auth](https://github.com/Nodge/yii2-eauth)
-  - [Thumbler](https://github.com/Alex-Bond/yii2-thumbler)
-  - [Multiple input](https://github.com/unclead/yii2-multiple-input)
-  - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
-  - [Users](https://github.com/dektrium/yii2-user)
-  - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
-  - [Comments](https://github.com/yeesoft/yii2-comments)
+ 
   
 ## Front-end:
   - Sliders & Carousels:
