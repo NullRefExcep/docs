@@ -40,6 +40,7 @@
   - [spin.js](https://github.com/fgnass/spin.js)
   - [jsrender](https://github.com/borismoore/jsrender)
   - [Justified Gallery](https://github.com/miromannino/Justified-Gallery)
+  - [Chart.js](https://github.com/nnnick/Chart.js)
   - Bootstrap
     - Themes
       - [SB Admin](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2)
