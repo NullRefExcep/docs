@@ -1,6 +1,8 @@
 # Repository with all our stuff
 
 ## [Useful links](https://github.com/NullRefExcep/docs/blob/master/links.md)
+## [Specifications](https://github.com/NullRefExcep/docs/blob/master/specs.md)
+
 
 ## Yii2 modules system (WIP):
  - [Boilerplate](https://github.com/NullRefExcep/yii2-boilerplate)
