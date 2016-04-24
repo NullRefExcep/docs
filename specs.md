@@ -15,6 +15,8 @@ DB fields lower-case with lodash (like repository name)
 
 W3C bla-bla-bla
 
+Використання тегів <img> повинно бути мінімізоване, до них варто вдаватися коли виводяться логотипи, фотографії товарів, постів та ін. В усіх інших випадках варто використовувати css background-image.
+
 
 ### CSS
 
