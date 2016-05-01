@@ -70,6 +70,7 @@
     - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
     - [GSAP](https://github.com/greensock/GreenSock-JS)
     - [skrollr](https://github.com/Prinzhorn/skrollr)
+    - [Animate.css](https://github.com/daneden/animate.css)
   - Icons
     - [Pictonic](https://pictonic.co/)
     - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
