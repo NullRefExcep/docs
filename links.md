@@ -3,6 +3,7 @@
   - [Faker](https://github.com/fzaninotto/Faker)
   - [Stringy](https://github.com/danielstjules/Stringy)
   - [psysh](https://github.com/bobthecow/psysh)
+  - [Carbon](https://github.com/briannesbitt/carbon)
   
 ## Yii2:
   - Modules
