@@ -11,6 +11,7 @@
     - [Settings](https://github.com/phemellc/yii2-settings)
     - [Comments](https://github.com/yeesoft/yii2-comments)
   - Components
+    - [MinifyView](https://github.com/rmrevin/yii2-minify-view)
     - [Shopping cart](https://github.com/omnilight/yii2-shopping-cart)
     - [Auth](https://github.com/Nodge/yii2-eauth)
     - [Thumbler](https://github.com/Alex-Bond/yii2-thumbler)
