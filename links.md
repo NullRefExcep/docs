@@ -63,6 +63,7 @@
     - [JSTree](https://github.com/vakata/jstree)
     - [ion.checkRadio](https://github.com/IonDen/ion.checkRadio/)
     - [awesomplete](https://github.com/LeaVerou/awesomplete)
+    - [Dropzone](https://github.com/enyo/dropzone/)
   - Scrollbars
     - [Nice Scroll](https://github.com/inuyaksa/jquery.nicescroll)
     - [Custom Scroll](https://github.com/malihu/malihu-custom-scrollbar-plugin)
