@@ -4,6 +4,7 @@
   - [Stringy](https://github.com/danielstjules/Stringy)
   - [psysh](https://github.com/bobthecow/psysh)
   - [Carbon](https://github.com/briannesbitt/carbon)
+  - [Guzzle](https://github.com/guzzle/guzzle)
   
 ## Yii2:
   - Modules
