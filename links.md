@@ -7,6 +7,7 @@
   - [Guzzle](https://github.com/guzzle/guzzle)
   
 ## Yii2:
+  - [Shell](https://github.com/svkurowski/yii2-shell)
   - Modules
     - [Users](https://github.com/dektrium/yii2-user)
     - [Settings](https://github.com/phemellc/yii2-settings)
