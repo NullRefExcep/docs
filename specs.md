@@ -27,6 +27,7 @@ W3C bla-bla-bla
 ### CSS
 
 - Схвалюється використання популярних бібліотек на зразок Bootstrap та ін.
+- Схвалюється використання бібліотек reset.css, [normalize.css](https://github.com/necolas/normalize.css) або аналогічних.
 
 ## JS
 
