@@ -72,6 +72,7 @@
     - [Custom Scroll](https://github.com/malihu/malihu-custom-scrollbar-plugin)
   - Canvas & SVG
     - [FabricJS](https://github.com/kangax/fabric.js)
+    - [particles.js](https://github.com/VincentGarreau/particles.js)
   - Animations
     - [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
     - [GSAP](https://github.com/greensock/GreenSock-JS)
