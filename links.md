@@ -86,6 +86,8 @@
     - [react-cropper (Image crop)](https://github.com/roadmanfong/react-cropper)
   - SASS/SCSS
     - [sass-mediaqueries](https://github.com/paranoida/sass-mediaqueries)   
+  - E-commerce
+    - [card-info](https://github.com/iserdmi/card-info)
   
 ## Wordpress
   - Tools
