@@ -92,9 +92,9 @@
 ## Wordpress
   - Tools
     - [wp-cli](https://github.com/wp-cli/wp-cli)
-      - [tools](https://github.com/wp-cli/wp-cli.github.com/blob/master/docs/tools/index.md) 
   - Plugins
     - [Woocommerce](https://github.com/woothemes/woocommerce)
     - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
     - [Attachments](https://github.com/jchristopher/attachments/)
     - [Nested Pages](https://ru.wordpress.org/plugins/wp-nested-pages/)
+    - [Contact Form 7](https://uk.wordpress.org/plugins/contact-form-7/)
