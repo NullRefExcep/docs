@@ -32,6 +32,7 @@
     - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
     - [FancyBox](https://github.com/newerton/yii2-fancybox)
   - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
+  - [QR scanner](https://github.com/schmich/instascan)
  
   
 ## Front-end:
