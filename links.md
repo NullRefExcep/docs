@@ -34,7 +34,9 @@
     - [FooTable](https://github.com/filsh/yii2-footable)
   - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
   - [QR scanner](https://github.com/schmich/instascan)
- 
+## Magento:
+  - [n98 magerun](https://github.com/netz98/n98-magerun)
+  - [magicento](https://magicento.com/)
   
 ## Front-end:
   - Sliders & Carousels:
