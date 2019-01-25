@@ -31,6 +31,7 @@
     - [Fullcalendar](https://github.com/philippfrenzel/yii2fullcalendar)
     - [Chosen](https://github.com/RomeroMsk/yii2-chosen)
     - [FancyBox](https://github.com/newerton/yii2-fancybox)
+    - [FooTable](https://github.com/filsh/yii2-footable)
   - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
   - [QR scanner](https://github.com/schmich/instascan)
  
@@ -60,6 +61,7 @@
     - Plugins:
       - [Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)
       - [Toggle](https://github.com/minhur/bootstrap-toggle)
+      - [FooTable](https://github.com/fooplugins/FooTable)
   - Spinners
     - [SpinKit](https://github.com/tobiasahlin/SpinKit)
   - Forms
