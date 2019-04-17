@@ -94,7 +94,7 @@
   - E-commerce
     - [card-info](https://github.com/iserdmi/card-info)
   
-## Wordpress
+## Wordpress:
   - Tools
     - [wp-cli](https://github.com/wp-cli/wp-cli)
   - Plugins
@@ -104,3 +104,10 @@
     - [Nested Pages](https://ru.wordpress.org/plugins/wp-nested-pages/)
     - [Contact Form 7](https://uk.wordpress.org/plugins/contact-form-7/)
     - [Theme Options UI Builder](https://github.com/valendesigns/option-tree)
+    
+## Laravel:
+  - Auth
+    - [JWT](https://github.com/tymondesigns/jwt-auth)
+  - Admin
+    - [laravel-admin](https://github.com/z-song/laravel-admin)
+    - [voyager](https://github.com/the-control-group/voyager)
