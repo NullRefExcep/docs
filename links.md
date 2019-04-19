@@ -6,6 +6,11 @@
   - [Carbon](https://github.com/briannesbitt/carbon)
   - [Guzzle](https://github.com/guzzle/guzzle)
   
+## Composer:
+  - [asset-packagist](https://asset-packagist.org/)
+  - [prestissimo](https://github.com/hirak/prestissimo)
+  - [config-plugin](https://github.com/hiqdev/composer-config-plugin)
+
 ## Yii2:
   - [Shell](https://github.com/svkurowski/yii2-shell)
   - Modules
@@ -34,6 +39,7 @@
     - [FooTable](https://github.com/filsh/yii2-footable)
   - [Font Awesome](https://github.com/rmrevin/yii2-fontawesome)
   - [QR scanner](https://github.com/schmich/instascan)
+
 ## Magento:
   - [n98 magerun](https://github.com/netz98/n98-magerun)
   - [magicento](https://magicento.com/)
