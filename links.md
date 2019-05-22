@@ -127,4 +127,5 @@
   - [flutter_image](https://github.com/flutter/flutter_image)
   - [font_awesome_flutter](https://github.com/brianegan/font_awesome_flutter)
   - [async_loader](https://github.com/chimon2000/async_loader)
+  - [flutter-geolocator](https://github.com/BaseflowIT/flutter-geolocator)
 
