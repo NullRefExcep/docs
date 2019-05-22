@@ -1,4 +1,4 @@
-## PHP:
+# PHP:
   - [.ENV](https://github.com/vlucas/phpdotenv)
   - [Faker](https://github.com/fzaninotto/Faker)
   - [Stringy](https://github.com/danielstjules/Stringy)
@@ -44,7 +44,25 @@
   - [n98 magerun](https://github.com/netz98/n98-magerun)
   - [magicento](https://magicento.com/)
   
-## Front-end:
+## Wordpress:
+  - Tools
+    - [wp-cli](https://github.com/wp-cli/wp-cli)
+  - Plugins
+    - [Woocommerce](https://github.com/woothemes/woocommerce)
+    - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
+    - [Attachments](https://github.com/jchristopher/attachments/)
+    - [Nested Pages](https://ru.wordpress.org/plugins/wp-nested-pages/)
+    - [Contact Form 7](https://uk.wordpress.org/plugins/contact-form-7/)
+    - [Theme Options UI Builder](https://github.com/valendesigns/option-tree)
+    
+## Laravel:
+  - Auth
+    - [JWT](https://github.com/tymondesigns/jwt-auth)
+  - Admin
+    - [laravel-admin](https://github.com/z-song/laravel-admin)
+    - [voyager](https://github.com/the-control-group/voyager)
+
+# Front-end:
   - Sliders & Carousels:
     - [Owl Carousel](http://owlcarousel.owlgraphic.com/)
     - [rcarousel](https://github.com/ryrych/rcarousel)
@@ -99,21 +117,14 @@
     - [sass-mediaqueries](https://github.com/paranoida/sass-mediaqueries)   
   - E-commerce
     - [card-info](https://github.com/iserdmi/card-info)
-  
-## Wordpress:
-  - Tools
-    - [wp-cli](https://github.com/wp-cli/wp-cli)
-  - Plugins
-    - [Woocommerce](https://github.com/woothemes/woocommerce)
-    - [Advanced Custom Fields](https://github.com/elliotcondon/acf)
-    - [Attachments](https://github.com/jchristopher/attachments/)
-    - [Nested Pages](https://ru.wordpress.org/plugins/wp-nested-pages/)
-    - [Contact Form 7](https://uk.wordpress.org/plugins/contact-form-7/)
-    - [Theme Options UI Builder](https://github.com/valendesigns/option-tree)
     
-## Laravel:
-  - Auth
-    - [JWT](https://github.com/tymondesigns/jwt-auth)
-  - Admin
-    - [laravel-admin](https://github.com/z-song/laravel-admin)
-    - [voyager](https://github.com/the-control-group/voyager)
+    
+# Dart
+  - [http](https://github.com/dart-lang/http)
+  - [jaguar_serializer](https://github.com/Jaguar-dart/jaguar_serializer)
+## Flutter:
+  - [fluro](https://github.com/theyakka/fluro)
+  - [flutter_image](https://github.com/flutter/flutter_image)
+  - [font_awesome_flutter](https://github.com/brianegan/font_awesome_flutter)
+  - [async_loader](https://github.com/chimon2000/async_loader)
+
