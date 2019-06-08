@@ -122,6 +122,7 @@
 # Dart
   - [http](https://github.com/dart-lang/http)
   - [jaguar_serializer](https://github.com/Jaguar-dart/jaguar_serializer)
+  - [dart-uuid](https://github.com/Daegalus/dart-uuid)
 ## Flutter:
   - [fluro](https://github.com/theyakka/fluro)
   - [flutter_image](https://github.com/flutter/flutter_image)
@@ -129,4 +130,5 @@
   - [async_loader](https://github.com/chimon2000/async_loader)
   - [flutter-geolocator](https://github.com/BaseflowIT/flutter-geolocator)
   - [flutter_spinkit](https://github.com/jogboms/flutter_spinkit)
+  - [flutter-autocomplete-textfield](https://github.com/felixlucien/flutter-autocomplete-textfield)
 
