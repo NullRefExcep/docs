@@ -125,6 +125,7 @@
   - [dart-uuid](https://github.com/Daegalus/dart-uuid)
 ## Flutter:
   - [fluro](https://github.com/theyakka/fluro)
+  - [flutter_date_pickers](https://github.com/MariaMelnik/flutter_date_pickers)
   - [flutter_image](https://github.com/flutter/flutter_image)
   - [font_awesome_flutter](https://github.com/brianegan/font_awesome_flutter)
   - [async_loader](https://github.com/chimon2000/async_loader)
